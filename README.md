@@ -9,3 +9,7 @@
 ```bash
 pip install llama-cpp-python
 pip install pyTelegramBotAPI transformers torch
+
+Использование ИИ Модели
+Этот проект использует ИИ модель DeepSeek-V2-Lite-Chat.Q2_K.gguf для обработки запросов и генерации ответов чат-ботом.
+
